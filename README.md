@@ -16,7 +16,7 @@
 ### Backend 
    <img src="https://camo.githubusercontent.com/758a0017b785f0a5dd480023bdc2953f166e0ca730c7e4e1f81f71cd55d0d169/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3333393933332e7376673f6c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" alt="nodejs" data-canonical-src="https://img.shields.io/badge/node.js-339933.svg?logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/1cb137dce304c2e3badfec861be2e0939541363277bf39f22aa771985202b19e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732d3030303030302e7376673f6c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="express" data-canonical-src="https://img.shields.io/badge/express-000000.svg?logo=express&amp;logoColor=white" style="max-width: 100%;">
 
-###  Databases & Cloud Hosting
+###  Databases
    <img src="https://camo.githubusercontent.com/4d4cf7e2341b1f4ad2773538838e8a816d61e86a8561fc2d91521ac862ac03e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d3437413234382e7376673f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="mongodb" data-canonical-src="https://img.shields.io/badge/mongodb-47A248.svg?logo=mongodb&amp;logoColor=white" style="max-width: 100%;">
 
 ###  Tools
