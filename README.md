@@ -7,7 +7,7 @@
   
 ## 🛠 Tech Stack 🛠 
 ###  Programming languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/CSharp-239120??style=for-the-badge&logo=CSharp&logoColor=white">      
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 
 
