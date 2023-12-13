@@ -6,6 +6,7 @@
 - notion : https://raincoat.oopy.io/
 - contact : raincoat@kakao.com
 - linkedin : [우상욱](https://www.linkedin.com/in/%EC%83%81%EC%9A%B1-%EC%9A%B0-706a2a248/)
+- portpolio : https://portpolio-nuxt.vercel.app/
 ## 🛠 Tech Stack 🛠 
 ###  Programming languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
