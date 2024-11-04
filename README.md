@@ -3,7 +3,7 @@
 </div>
 
 ## 👩🏻‍💻 About me
-- notion : https://raincoat.oopy.io/
+- notion : [우상욱](https://ruddy-flannel-e59.notion.site/eb472f55096e4f108c8fa0254a46da6d/)
 - contact : raincoat@kakao.com
 - linkedin : [우상욱](https://www.linkedin.com/in/%EC%83%81%EC%9A%B1-%EC%9A%B0-706a2a248/)
 - portpolio : https://portpolio-nuxt.vercel.app/
