@@ -5,7 +5,7 @@
 ## 👩🏻‍💻 About me
 - notion : [우상욱](https://ruddy-flannel-e59.notion.site/eb472f55096e4f108c8fa0254a46da6d/)
 - contact : raincoat@kakao.com
-- linkedin : [우상욱](www.linkedin.com/in/sangwook-woo-706a2a248)
+- linkedin : [우상욱](https://www.linkedin.com/in/sangwook-woo-706a2a248/)
 - portpolio : https://portpolio-nuxt.vercel.app/
 - blog : https://raincoat98.github.io/
 ## 🛠 Tech Stack 🛠 
